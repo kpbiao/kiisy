@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 ï»¿--doc.txt   æ˜¯ä¸­æ–‡çš„æäº¤çš„
 --index.php å°¼ç›çš„
 nnnnhhhã€
 chinese can't write in 
 
 chinese can't write in chinese can't write in chinese can't write in 
+=======
+--doc.txt   ÈÕÖ¾ÎÄ¼ş
+--index.php Ê×Ò³ÎÄ¼ş
+--index.php Ê×Ò³ÎÄ¼ş
+--index.php Ê×Ò³ÎÄ¼ş
+--index.php Ê×Ò³ÎÄ¼ş
+test client
+>>>>>>> 6bd87839ad4af2509990fa8a136d64b1d78dea2c
