@@ -1,4 +1,2 @@
---doc.txt   О©╫О©╫ж╬О©╫д╪О©╫
---index.php О©╫О©╫рЁО©╫д╪О©╫
-nnnnhhhЦ─│
-chinese can't write in 
+--doc.txt   хуж╬нд╪Ч
+--index.php йврЁнд╪Ч
