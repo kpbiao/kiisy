@@ -1,4 +1,6 @@
---doc.txt   ��־�ļ�
---index.php ��ҳ�ļ�
+﻿--doc.txt   是中文的提交的
+--index.php 尼玛的
 nnnnhhh、
 chinese can't write in 
+
+chinese can't write in chinese can't write in chinese can't write in 
